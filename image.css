@@ -1,0 +1,21 @@
+html {
+    font-size: 100%;
+}
+body{
+    margin-top: -1px;
+    margin-left: 176px;
+    border-left: 0.990px;
+    border-bottom: 0.990px;
+    border-top: 0.990px;
+    padding-left: 24px;
+     padding-right: 24px ;
+     padding-top: 20px;
+     padding-bottom: 24px;
+}
+main{
+    border: 2px double black;
+    padding: 50px;
+}
+#g {
+    background-color:#898d92;
+}
